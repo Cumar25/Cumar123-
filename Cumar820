@@ -1,0 +1,7 @@
+#include<iostream>
+Using namespace  std,
+{
+int pass;
+Cout<<pass''gili magaca cumar''<<endl;
+Cin>>pass;
+if(pass1234
